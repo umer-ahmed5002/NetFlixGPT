@@ -1,0 +1,22 @@
+.loginBackgroung{
+  background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/058eee37-6c24-403a-95bd-7d85d3260ae1/3017e280-c734-4bc9-9cf3-2cdd363644e5/PK-en-20240422-POP_SIGNUP_TWO_WEEKS-perspective_WEB_51bbfc4d-6750-49fc-98f1-802c382dbd2c_medium.jpg');
+  background-size: cover;
+  height: 100vh;
+}
+.srollBar::-webkit-scrollbar{
+  width: 0;
+}
+.secondaryBackgroung{
+  background-color: rgb(0, 0, 0);
+}
+.movieImage{
+  /* box-shadow: 0 0 5px rgb(54, 52, 52); */
+  border-radius: 20px;
+  border: 3px solid rgb(29, 28, 28);
+}
+.title{
+  color: red;
+  padding: 5px;
+  font-size: 20px;
+  font-weight: 700;
+}
